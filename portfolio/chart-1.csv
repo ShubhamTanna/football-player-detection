@@ -1,0 +1,6 @@
+class,test_instances,precision,recall,map50_v2_yolov8n,map50_v1_roboflow,map50_95_v2,source
+player,499,0.979,0.968,0.992,0.98,0.785,outputs/test_metrics.csv; v1 from notebook cell 16
+referee,56,0.925,0.875,0.954,0.91,0.634,outputs/test_metrics.csv; v1 from notebook cell 16
+goalkeeper,19,0.937,0.779,0.931,0.91,0.719,outputs/test_metrics.csv; v1 from notebook cell 16
+ball,24,0.946,0.375,0.426,0.47,0.176,outputs/test_metrics.csv; v1 from notebook cell 16
+all,598,0.947,0.749,0.826,0.82,0.579,outputs/test_metrics.csv; v1 from notebook cell 16

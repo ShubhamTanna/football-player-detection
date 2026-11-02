@@ -1,0 +1,7 @@
+# Roboflow Universe "football-players-detection" v12 (CC BY 4.0), YOLO format.
+# Download the dataset (see data/README.md) and place train/ valid/ test/ next to this file.
+train: train/images
+val: valid/images
+test: test/images
+nc: 4
+names: ['ball', 'goalkeeper', 'player', 'referee']

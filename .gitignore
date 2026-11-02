@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Dataset is downloaded separately (see data/README.md)
+data/train/
+data/valid/
+data/test/
+data/*.zip
+# Editable Word copies stay local; PDFs are published
+docs/*.docx
+# Large run artefacts
+outputs/test_eval/
+*.mp4
+!portfolio/lead.mp4

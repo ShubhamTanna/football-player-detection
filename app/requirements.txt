@@ -1,0 +1,11 @@
+# Streamlit Community Cloud installs this file for the demo app (CPU-only PyTorch keeps the image small)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+ultralytics==8.4.189
+opencv-python-headless>=4.9
+scikit-learn>=1.4
+pandas>=2.1
+numpy>=1.26
+streamlit>=1.40
+pillow

@@ -1,0 +1,9 @@
+item,value,source
+Model,"YOLOv8-nano, 3,133,436 parameters, fine-tuned from COCO weights",notebook cell 12
+Labelled frames (train / validation / test),298 / 49 / 25,notebook cell 4
+Labelled objects (train / validation / test),"7,133 / 1,174 / 598",notebook cell 4
+Source clips,56 Bundesliga broadcast clips,notebook cell 23
+Training,"43 epochs at 640 px, 1.75 h on CPU",notebook cell 9
+Inference size,960 px (chosen on validation set),notebook cell 12
+Speed,"244 ms per frame at 960 px on a 2-core CPU (about 4 fps), no GPU",notebook cell 19
+Test mAP@0.5,0.826 at 960 px (0.787 at 640 px),notebook cell 15

@@ -1,0 +1,4 @@
+inference_size_px,split,map50_all,map50_ball,recall_ball,map50_95_all,ms_per_frame_cpu,source
+640,validation,0.768,0.287,0.289,0.491,110.8,notebook cell 12 (resolution sweep)
+960,validation,0.806,0.432,0.378,0.542,280.1,notebook cell 12 (resolution sweep)
+1280,validation,0.710,0.325,0.333,0.440,529.4,notebook cell 12 (resolution sweep)
