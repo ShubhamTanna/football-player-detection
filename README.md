@@ -32,7 +32,7 @@ Tracking data usually comes from expensive multi-camera systems or hours of manu
 - **A cheap win.** Choosing the inference size on validation data lifted test mAP@0.5 from 0.79 to 0.83, and validation ball mAP@0.5 from 0.29 to 0.43, with no retraining.
 - **Speed:** about 4 frames per second at 960 px on a 2-core CPU. No GPU.
 
-![Demo app](portfolio/demo-screenshot.png)
+![Demo app](portfolio/screens/01-demo.png)
 
 ## Run it
 

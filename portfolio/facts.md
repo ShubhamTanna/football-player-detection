@@ -18,6 +18,8 @@ Every number quoted for this project, with the file it comes from.
 | Speed | 244 ms per frame at 960 px on a 2-core CPU, about 4 fps | notebook cell 19 |
 | Possession computable | 47% of frames (ball detected in 47.3%) | notebook cell 25 |
 | Context | v1: Cognitive Sciences and Analytics course, B.Tech CSBS Semester 7, 2025. v2 rebuilt solo in 2026 | README |
+| Demo screenshot (sample frame 1, 960 px, confidence 0.25) | Team A 11, Team B 10, goalkeepers 0, referees 2, ball 1; possession call Team B | `app/streamlit_app.py` on `app/samples/sample_frame_1.jpg` |
+| Demo caption "298 frames" | the training split of the 372 labelled frames | notebook cell 4 |
 
 ## Caveats
 
